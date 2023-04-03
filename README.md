@@ -1,4 +1,4 @@
-# matrices-and-determinants
+# The Matrixinator
 Calculates the sum, difference, product, transpose determinant, co-factor matrix, and adjoint of a matrix.
 
 Hello, random person who decided to check this out.
